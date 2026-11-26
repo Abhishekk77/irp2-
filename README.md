@@ -27,3 +27,13 @@ Replace `p1_reverse_words.py` with the program you want to run.
 ## Tests
 
 Sample input and expected output files are stored in the `tests/` directory.
+
+## Run All Sample Tests
+
+From the repository root, run:
+
+```bash
+python run_tests.py
+```
+
+The script runs each problem with its sample input and compares the output with the corresponding expected output. It reports PASS or FAIL for each test.
